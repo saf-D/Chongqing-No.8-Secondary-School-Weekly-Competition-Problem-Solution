@@ -1,1 +1,41 @@
-# Chongqing-No.8-Secondary-School-Weekly-Competition-Problem-Solution
+# 重庆八中周赛题解
+
+### 目录
+
++ [重庆八中周赛Round#1 题解.pdf(https://pan.iculture.cc/s/eMbQFX)](https://pan.iculture.cc/s/eMbQFX)
+
++ [重庆八中周赛Round#2 题解.pdf(https://pan.iculture.cc/s/DM56IW)](https://pan.iculture.cc/s/DM56IW)
+
+### 重庆八中周赛Round#1 题解 [png]
+
+![1.png](http://61.186.173.89:2019/2023/05/13/14041f48a1a13.png)
+
+![2.png](http://61.186.173.89:2019/2023/05/13/09ea3fbaa0571.png)
+
+![3.png](http://61.186.173.89:2019/2023/05/13/ee7469b4872bb.png)
+
+![4.png](http://61.186.173.89:2019/2023/05/13/16760f6598a7d.png)
+
+![5.png](http://61.186.173.89:2019/2023/05/13/ef9798bed3a1a.png)
+
+![6.png](http://61.186.173.89:2019/2023/05/13/5ba25d89ed0bd.png)
+
+![7.png](http://61.186.173.89:2019/2023/05/13/0fd4733c85af8.png)
+
+### 重庆八中周赛Round#2 题解 [png]
+
+![8.png](http://61.186.173.89:2019/2023/05/13/992157756ecec.png)
+
+![9.png](http://61.186.173.89:2019/2023/05/13/0600e5d7fc823.png)
+
+![10.png](http://61.186.173.89:2019/2023/05/13/3ce8e87acf942.png)
+
+![11.png](http://61.186.173.89:2019/2023/05/13/c66b0ffcd29d2.png)
+
+![12.png](http://61.186.173.89:2019/2023/05/13/5c605bbe45656.png)
+
+![13.png](http://61.186.173.89:2019/2023/05/13/06a1df54267cb.png)
+
+![14.png](http://61.186.173.89:2019/2023/05/13/d3f55a8a7cf4e.png)
+
+![15.png](http://61.186.173.89:2019/2023/05/13/d82cd0f403c7f.png)
